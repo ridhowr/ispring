@@ -9938,16 +9938,16 @@ h6,
 
 .blog-overlay {
   position: absolute;
-  padding: 3px;
-  width: 0;
-  height: 0;
+  padding: 30px;
+  width: 100%;
+  height: 100%;
   top: 0;
   left: 0;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-end;
-  background: ;
+  background: linear-gradient(rgba(68, 66, 90, 0), #44425a);
   z-index: 1;
 }
 

@@ -9947,7 +9947,7 @@ h6,
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-end;
-  background: linear-gradient(rgba(68, 66, 90, 0), #44425a);
+  background: none;
   z-index: 1;
 }
 

@@ -9864,7 +9864,7 @@ h6,
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background: rgba(0, 0, 0, 0.5);
+  background: none;
   z-index: 1;
 }
 
